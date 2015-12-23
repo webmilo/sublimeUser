@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Can I Use",
+		"ColorPicker",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"LESS",
+		"MarkdownEditing",
+		"Package Control",
+		"PackageResourceViewer",
+		"SCSS",
+		"SCSS Compiler",
+		"SublimeLinter",
+		"Terminal",
+		"Trimmer"
+	]
+}
