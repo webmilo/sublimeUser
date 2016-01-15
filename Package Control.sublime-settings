@@ -8,11 +8,13 @@
 		"Alignment",
 		"Can I Use",
 		"ColorPicker",
+		"CSS Format",
 		"CSScomb",
 		"DocBlockr",
 		"Emmet",
 		"FileDiffs",
 		"Git",
+		"HTML5",
 		"LESS",
 		"MarkdownEditing",
 		"Package Control",
@@ -20,6 +22,7 @@
 		"SCSS",
 		"SCSS Compiler",
 		"SublimeLinter",
+		"Tag",
 		"Terminal",
 		"Trimmer"
 	]
